@@ -1,0 +1,15 @@
+D:\Christian\Cursos\Máster en Desarrollo de Microservicios con C# y .NET\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.exe
+D:\Christian\Cursos\Máster en Desarrollo de Microservicios con C# y .NET\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.deps.json
+D:\Christian\Cursos\Máster en Desarrollo de Microservicios con C# y .NET\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.runtimeconfig.json
+D:\Christian\Cursos\Máster en Desarrollo de Microservicios con C# y .NET\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.dll
+D:\Christian\Cursos\Máster en Desarrollo de Microservicios con C# y .NET\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.pdb
+D:\Christian\Cursos\Máster en Desarrollo de Microservicios con C# y .NET\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.AssemblyReference.cache
+D:\Christian\Cursos\Máster en Desarrollo de Microservicios con C# y .NET\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Christian\Cursos\Máster en Desarrollo de Microservicios con C# y .NET\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfoInputs.cache
+D:\Christian\Cursos\Máster en Desarrollo de Microservicios con C# y .NET\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfo.cs
+D:\Christian\Cursos\Máster en Desarrollo de Microservicios con C# y .NET\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\Christian\Cursos\Máster en Desarrollo de Microservicios con C# y .NET\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.dll
+D:\Christian\Cursos\Máster en Desarrollo de Microservicios con C# y .NET\Ejercicio1\Ejercicio1\obj\Debug\net6.0\refint\Ejercicio1.dll
+D:\Christian\Cursos\Máster en Desarrollo de Microservicios con C# y .NET\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.pdb
+D:\Christian\Cursos\Máster en Desarrollo de Microservicios con C# y .NET\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.genruntimeconfig.cache
+D:\Christian\Cursos\Máster en Desarrollo de Microservicios con C# y .NET\Ejercicio1\Ejercicio1\obj\Debug\net6.0\ref\Ejercicio1.dll
